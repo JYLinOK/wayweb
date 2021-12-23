@@ -1,2 +1,2 @@
 # wayweb
-Way Tutorial Webs
+## The GitHub web of Way.
